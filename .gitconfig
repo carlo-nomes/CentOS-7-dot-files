@@ -1,0 +1,12 @@
+[user]
+	name = Carlo Nomes
+	email = nomes.carlo@gmail.com
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
+  ui = true
+  pager = true
+[alias]
+    tree = log --graph --decorate --pretty=oneline --abbrev-commit
